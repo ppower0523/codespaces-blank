@@ -11,7 +11,7 @@ st.set_page_config(
 st.title("High Level Impacts")     
 st.sidebar.success("Select a page above.")
 
-st.markdown("This is some text with markdown")
+
 
 df = pd.read_csv("https://github.com/ppower0523/my-hello-world-app/raw/refs/heads/master/Hope_UTF_File.csv")
 #("https://raw.githubusercontent.com/ppower0523/codespaces-blank/refs/heads/main/Hope_UTF_File.csv?token=GHSAT0AAAAAADCJVTWV54KQ2XNUZ4CU4Y2K2A773VQ")
